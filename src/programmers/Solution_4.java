@@ -1,5 +1,7 @@
 package programmers;
 
+
+//정수 제곱근 판별
 class Solution_4 {
     public static long solution(long n) {
         long answer = 0;
